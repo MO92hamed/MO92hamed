@@ -4,10 +4,9 @@ I'm Mohamed from Tunisia, énd i do content on development. I really enjoy learn
 
 ## Skills and Experience
 
-- HTML, CSS, JS
+- 💻 HTML, CSS, JS
 - ⚛ REACT
-- NODEJS
-- EXPRESSJS
+- 📱 NODEJS EXPRESSJS
 - JAVA
 
 
