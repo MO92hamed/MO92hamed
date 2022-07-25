@@ -27,6 +27,5 @@ I'm Mohamed Amine from Tunisia, and I do content on development. I really enjoy 
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MO92hamed&layout=compact"/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=MO92hamed&show_icons=true&theme=dark"/>
 
 
