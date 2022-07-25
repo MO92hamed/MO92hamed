@@ -1,6 +1,8 @@
 ### Mohamed Amine 
 
-I'm Mohamed from Tunisia, and I do content on development. I really enjoy learning languages and frameworks like javascript React Nodejs express js and Java , as well as i work on PHP.
+Hi there :wave:
+
+I'm Mohamed Amine from Tunisia, and I do content on development. I really enjoy learning languages and frameworks like javascript React Nodejs express js and Java , as well as i work on PHP.
 
 ## Skills and Experience
 
