@@ -23,6 +23,8 @@ I'm Mohamed from Tunisia, and I do content on development. I really enjoy learni
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MO92hamed&layout=compact"/>
 
+<img src="https://github-readme-stats.vercel.app/api?username=MO92hamed&show_icons=true&theme=dark"/>
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MO92hamed)](https://github.com/anuraghazra/github-readme-stats)
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=MO92hamed"/>
