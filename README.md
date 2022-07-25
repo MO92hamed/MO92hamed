@@ -1,16 +1,16 @@
-### Hi there 👋
+### Mohamed Amine 
 
-<!--
-**MO92hamed/MO92hamed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Mohamed from Tunisia, énd i do content on development. I really enjoy learning languages and frameworks like javascript React Nodejs express js and Java , as well as i work on PHP.
 
-Here are some ideas to get you started:
+## Skills and Experience
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- HTML, CSS, JS
+- ⚛ REACT
+- NODEJS
+- EXPRESSJS
+- JAVA
+
+
+## Stats
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MO92hamed)](https://github.com/anuraghazra/github-readme-stats)
